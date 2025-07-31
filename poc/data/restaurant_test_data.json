@@ -1,0 +1,504 @@
+[
+  {
+    "place_id": "ChIJnWW5QEerQjQRsM5j_jC-1Uo",
+    "name": "GET POWER 給力盒子 永春店",
+    "address": "110025, Taiwan, Taipei City, Xinyi District, Lane 121, Hulin St, 8號1樓",
+    "rating": 4.9,
+    "user_ratings_total": 510,
+    "price_level": 0,
+    "types": [
+      "restaurant",
+      "establishment",
+      "meal_delivery",
+      "point_of_interest",
+      "food"
+    ],
+    "photos": [
+      {
+        "file_path": "data/photos\\GET_POWER_給力盒子_永春店_07593ff0_400.jpg",
+        "photo_reference": "ATKogpd6_DTk_bW3SkZdq-E8Eg8x1uV6nzV9WEe9nMfGcoJSRtEIzfqA6vM64xNNlqKLZMntI_-tcJN_zkGgeCQetLzpkPwjBx2zyF2jXr6Caa8OLmQCQ2urQAUkP49PrSYO4PphhUbAiAQi09HRhpSN5UQO88dpTLPrK5pIUpfsxm4V2AX1PKXVO97DEfEZNRxe9JJhrxB6oqRpa3ozOLuJr-mbxQfkKIzfAT4MF_YXEt-62JNaOyw7qsjNOo_DVy3WaMGO0S1LClSHEsoeJc_NOCOFccvjWsTtKAAyLRircTbe1g",
+        "width": 3640,
+        "height": 2048
+      },
+      {
+        "file_path": "data/photos\\GET_POWER_給力盒子_永春店_64aa777f_400.jpg",
+        "photo_reference": "ATKogpeP5RXU4aTWkRnw05PTs03SmX3FEaG7608NoCQd9511K05jTVaiCWY8T76ohurQN3ck65F5IoQPPVCfrUek1annGT1XyZkUW_PrAA3HEmVs_BmcWXteymJIkKI-58O4wgSYBu7XxrPxI95YNQwSKtDrViU6jE3u5AXDEPuvKcFaYFYhSOExc5615iNeq3FA2HLmJ7UvzOUEUQZCK4PqbnzEUG0LTXRu9u4_1HKqR35OugmrL7Xa_0erMJTKU2hFqKwafrYRfRJ3ckbwdWbhckx247H142BjSxzIX6Ghp_wx-g",
+        "width": 1431,
+        "height": 1145
+      },
+      {
+        "file_path": "data/photos\\GET_POWER_給力盒子_永春店_52a3fdbb_400.jpg",
+        "photo_reference": "ATKogpefisUP8uymVFIRnQ3HUmTMQFKjgM3qN-zC8hP0Tfmv3Jnf1cP_mLVkAH2S40RsJ0JalNxQwv0yFchAVx6wdDbuvTHeXatvNpJTYguwPuizAwzwrnfKsGbDSDna13bSA9kGc1TT2Cblb1vLrIJLg45xHPh-snqFH9u4GdfhuIK46Hch29ZZmJlZsJb2fad9yfD1Pp1KcpzBDnjyYvOuB4hdGX6gXpBo_8xIyaxyPPnmLyzxKIXvbXUxQHx1BZ9bhV_Y2r5O7W-0N-YhV0Yt0XrkTtId3Xwr6seOuwUS_rG1HvI4F6VOJfg_VCO6XLVKnA0CYjl5HkHALXY_3R2KZBA1eBuXPAKA6eBIxguHyI9iWF8nANaCtJbYGuNyN01lNu2ZJ8xJoRxqUL7Rc-4SmX3mhXmC5SK74gK1Mh_TZF7Z6w",
+        "width": 4032,
+        "height": 3024
+      }
+    ],
+    "review_photos": [],
+    "reviews": [
+      {
+        "text": "3.7 out of 5, I'm more likely to give an honest store a high score, but apparently not!",
+        "rating": 3,
+        "time": 1716815366
+      },
+      {
+        "text": "Favorite healthy food spot! Eat here almost everyday - fast, healthy, tasty",
+        "rating": 5,
+        "time": 1715139108
+      },
+      {
+        "text": "The food is yummy and the price is reasonable",
+        "rating": 5,
+        "time": 1700042523
+      },
+      {
+        "text": "good good",
+        "rating": 5,
+        "time": 1728991616
+      },
+      {
+        "text": "health!",
+        "rating": 5,
+        "time": 1704363275
+      }
+    ],
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 2:00 PM, 4:00 – 7:30 PM",
+        "Tuesday: 10:30 AM – 2:00 PM, 4:00 – 7:30 PM",
+        "Wednesday: 10:30 AM – 2:00 PM, 4:00 – 7:30 PM",
+        "Thursday: 10:30 AM – 2:00 PM, 4:00 – 7:30 PM",
+        "Friday: 10:30 AM – 2:00 PM, 4:00 – 7:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "collected_at": "2025-07-31T10:41:12.530702"
+  },
+  {
+    "place_id": "ChIJeZQsMIirQjQRKOXwJUVKYuU",
+    "name": "Getpower給力盒子-松菸店",
+    "address": "No. 11號, Alley 2, Lane 553, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+    "rating": 4.2,
+    "user_ratings_total": 314,
+    "price_level": 0,
+    "types": [
+      "restaurant",
+      "establishment",
+      "point_of_interest",
+      "food"
+    ],
+    "photos": [
+      {
+        "file_path": "data/photos\\Getpower給力盒子_松菸店_40485c2a_400.jpg",
+        "photo_reference": "ATKogpc_z0dAVia9tZj-9UNx3wXD5ezKxDn92NYTp9F9bMQzoAnARgpXbjSlGxulH8mkeVbl4ya-YVSihGoXM6I56DZgxxAtQ78qz8NCa7-sSKnG8g-L-BUaOJNlRf4qp28t4vbu3StS5PnnrFy7F-Ei7eszyh0em9coNKY30wHoQ5pMnOszgRNjnGT1pPydkhdaLvzywcFs90sW2X0KqBunb6I0EcoisuVPnsnFb4mMB4fdZFc9wg_y04GDx2FDbVrYew1NPaXEw3Z7adWzqXpIXlTLJagw9YugolOKQK0TcvbOrA",
+        "width": 3816,
+        "height": 2148
+      },
+      {
+        "file_path": "data/photos\\Getpower給力盒子_松菸店_61f891c3_400.jpg",
+        "photo_reference": "ATKogpcZ-QzcKDUW_yQKCL7dMOLFAAy0ANcTv8szf3K5SxP2Ey-4_XDSRydjaLMh3-O6V01tbU4W7C_ZNa5cZpeaNewQKc4vM9AZ3V-aAnIXK06vtUjn3fOKOpZiY4t3TSee7u3p0maKb75NtTewR_zERRaqeuTcISDSNXuZCQyMk4Zc5ZxMs6nKUHSJ-IfccjKa0HLntDWo93BpSnjRa7Eri0WRDiWQ__9dW-OvKcCugbaWqwZzpgcZG-hXNPCfsMhRD6hrbhWyeIgXtMj92w7ZyP1D1xcqwWwuI99n43X1WSgErq4GZvoOoroWakB2sdXNA130bWLlEFm6n_azTHDxukMrs0H-zWLZdTJgPJ8jFSyuNmUTWRDdmhna4ShLk5X3_j-zrveyzl21h4HfoR-5tReMpzWBWGcI3OiF_33Tsqw9T5P5",
+        "width": 4000,
+        "height": 2224
+      },
+      {
+        "file_path": "data/photos\\Getpower給力盒子_松菸店_ad8808b0_400.jpg",
+        "photo_reference": "ATKogpcYf4yptQwhK7oe1NkghhnNM3e2B5KTYI5xKU3n_AaNpnz5dbUVub-1HvpRtiOrrYj7_MX5u9u-8y7x5r8wc9yjCf1j3ac3bHsW-WPFkzBvOjOVSJD8SLdBzL9h5Ke4ptJe7mhFIkeR-gb3jSLanGLabQwrUzhNPfAGF9k5l120oeJ03SWgI_yTFmdr6W1RjJ5Iu_yflLGYVc5d0VMHJjdKC4hzq7kDO0Y2uOWJwfpi_jAQ_MQ_AfM49WyDfON_XI8kfIgwTI-BSCUOxxjMex8RJGi8vjiWyzDldBWWCxeJU4YkBNPvuxaXvwDVicFP23t0mzxDZ3hthO0nRdhSyK_mfxwk7In_d32fvFhTcFJveOQYmLd8rnwbd11tKcAgBYuOY9DYBTfBF68oHO-Q6JvEJkSScmkSrTMjj0JjQEN_6Yx6",
+        "width": 2821,
+        "height": 2116
+      }
+    ],
+    "review_photos": [],
+    "reviews": [
+      {
+        "text": "Great. Extra vegetables options is nice\n\nPackaging is not sustainable\n\nExtra green tea drink is unnecessary for me but could be useful for some\n\nNot all the meal has nutritional information",
+        "rating": 5,
+        "time": 1611116523
+      },
+      {
+        "text": "Not like any other meal prep Togo places, they actually give you great portions. Food is very fresh and tasty vs others. Food does not come out like fast food but is worth the wait. They also post all the nutritional facts so that’s good if you are tracking macros or calories.",
+        "rating": 5,
+        "time": 1604055335
+      },
+      {
+        "text": "excellent",
+        "rating": 5,
+        "time": 1739010282
+      },
+      {
+        "text": "After reading the comments, I realized that I was not the only one. The vegetables were washed too carefully. The mud and sand were fine, but what happened to the whole snail on top of it...",
+        "rating": 2,
+        "time": 1753331947
+      },
+      {
+        "text": "The bento vegetables were not drained. One third of the bento vegetables were soaked in water. I don't know if it was bought in a bento or in a pot.",
+        "rating": 2,
+        "time": 1752838996
+      }
+    ],
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1920"
+          },
+          "open": {
+            "day": 1,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1920"
+          },
+          "open": {
+            "day": 2,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1920"
+          },
+          "open": {
+            "day": 3,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1920"
+          },
+          "open": {
+            "day": 4,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1920"
+          },
+          "open": {
+            "day": 5,
+            "time": "1530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 2:00 PM, 3:30 – 7:20 PM",
+        "Tuesday: 10:30 AM – 2:00 PM, 3:30 – 7:20 PM",
+        "Wednesday: 10:30 AM – 2:00 PM, 3:30 – 7:20 PM",
+        "Thursday: 10:30 AM – 2:00 PM, 3:30 – 7:20 PM",
+        "Friday: 10:30 AM – 2:00 PM, 3:30 – 7:20 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "collected_at": "2025-07-31T10:41:15.601979"
+  },
+  {
+    "place_id": "ChIJc_QZ6WKrQjQRI92dbillOUk",
+    "name": "Dr.Salt",
+    "address": "110, Taiwan, Taipei City, Xinyi District, Alley 335, Lane 150, Section 5, Xinyi Rd, 6號4樓",
+    "rating": 4.3,
+    "user_ratings_total": 19,
+    "price_level": 0,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "photos": [
+      {
+        "file_path": "data/photos\\DrSalt_7833a3f1_400.jpg",
+        "photo_reference": "ATKogpe49Kaov_eY_rfyCYQp_hy5fbmk3-AjxJWhqlw0ed372K_ZwoIuVkVC8Tb3q0WqLylFzUGqE9rAByH-3VeePV3RuBUQ7qTc2DrA_oJ0JVNNgXaxV2uRjphmanc0jdZ5qxCTjZgtfaxRviJFnuM6KtRuh_J0lxKGQ9Q_63pu4tEAmBQkyY6lzFyxUgD3tTHuiwmu-Dyr6jE8hyKXBx9TZ-4sdwlCzcA2ria2-P5aYlBwRlHesCabEhvQ1ka1QHbQT9mVt83l0F2_WbFfQY6suB7V_R8ulEbrQ87iOJpeT8pYIg",
+        "width": 4800,
+        "height": 2700
+      },
+      {
+        "file_path": "data/photos\\DrSalt_1201f5d0_400.jpg",
+        "photo_reference": "ATKogpfL_VNtfFkX8v6bVnhhMhA1Yd3QC1hPBxvqZc9oroUNSwQIHQRnFgCL2o6ISeJFXjEikxYWYMFdexdMYl1UugGYfhodpDT2ZLSCOYzlCeZVxaEhFI9qKIzwKy32CSXc1BIyOXKYiaS3cS4zd0HGe8WGwkb8Db5PUh2vHhy1BaiDAhvgmQfENudJ9wHtgsl52vsTnk6TQuAn0y3tHnAg7HH9Ez-a868LefgP94UgABRIthKZnnW2jdjKys1_bDoJ1hH5CPiTl8y0N7Al7vBvCcFkRfIpVLPyZatIRWaKc-wh6w",
+        "width": 3200,
+        "height": 4800
+      },
+      {
+        "file_path": "data/photos\\DrSalt_b8e19ddb_400.jpg",
+        "photo_reference": "ATKogpfX2Hqy3YA4X0gjwsFUvSgkp940dd9fZudr5gKmGPiCJ3DSFA388-zlgYoFUDH1VEe6l9DWnKWBU5mIAsFxszUGgWTDPBk2f7BZdkEFV15jYxK_3xEpJ6bzhRYHzDnxuxvJXnjfGJAEXbc7aXG1IayEMlPmwqHUrH82U8NnNOOQyiVUzl4ffHTF-fVuKhSSe-WSLHWzgQg0oegUUD-iFpi0w4atwYC3co_qEFkIPMKYikvr3LcmHuvAXFQAbH-35wYNOzFizUHEDjOppJGbOQ95QzFAsSq7z9DU2HnF_alGqQ",
+        "width": 4800,
+        "height": 3200
+      }
+    ],
+    "review_photos": [],
+    "reviews": [
+      {
+        "text": "Every time I order food for a meeting, I'm always afraid of delays, but their delivery is super punctual! The driver also helps deliver it upstairs and puts it in the designated location!\nBecause of the June event, we ordered the Hailu Jiugongge lunch box this time. As soon as I opened it, I felt it was very textured, the dishes were rich and healthy, highly recommended! This is the first time I look forward to a meeting～～",
+        "rating": 5,
+        "time": 1750945044
+      },
+      {
+        "text": "The nine-square lunch boxes ordered during the meeting made the guests very satisfied. The meals were rich and refreshing, and the side dishes were also very rich! \nThe delivery service driver cooperated very well and took the initiative to call to confirm the delivery location and time. Super professional!",
+        "rating": 5,
+        "time": 1750945057
+      },
+      {
+        "text": "I fell in love with their healthy meals the first time I tried them. The chicken breast was tender and juicy, not dry at all, and was very suitable for eating after a long sitting meeting. The customer service responded quickly and took the initiative to remind us of the order deadline, making the whole process very smooth. It is worth repurchasing.",
+        "rating": 5,
+        "time": 1750945694
+      },
+      {
+        "text": "We ordered a large and extra-thin nine-square grid for the event meal, and the guests were all amazed! We thought we wouldn't be full, but we were super full after eating! The point is that the delivery was very punctual and the service was very polite. We finally found a manufacturer that we can order from for a long time!",
+        "rating": 5,
+        "time": 1750951800
+      },
+      {
+        "text": "Dr.salt's delivery service is really efficient. The meals were delivered on time, perfectly connecting the end of the event.\nThe Italian-French nine-grid content design is great. Whether it is meat or vegetables, the taste is healthy and delicious, not monotonous, especially the vegetarian smoked bean curd skin, which is super delicious. Everyone enjoyed it very much🥰",
+        "rating": 5,
+        "time": 1750949506
+      }
+    ],
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "collected_at": "2025-07-31T10:41:18.582462"
+  }
+]
